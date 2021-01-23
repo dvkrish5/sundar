@@ -42,9 +42,9 @@
     </repository>
   </distributionManagement>
   <scm>
-   <connection>scm:git:https://github.com/dvkrish5/devops1.git</connection>
+   <connection>scm:git:https://github.com/dvkrish5/sundar.git</connection>
        <url>http://github.com/user/project</url>
-    <developerConnection>scm:git:https://github.com/dvkrish5/devops1.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/dvkrish5/sundar.git</developerConnection>
     <tag>itabuy-common-root-2.06</tag>
   </scm>
 
